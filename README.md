@@ -1,4 +1,4 @@
-ZendSkeletonApplication
+ZendSkeletonApplication ...Checked in too much
 =======================
 
 Introduction
